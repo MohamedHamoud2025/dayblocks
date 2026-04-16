@@ -1,5 +1,5 @@
-import TimeBlockMobileApp from "@/components/timeblock-app";
+import TimeBlockMobileAppClient from "@/components/timeblock-app-client";
 
 export default function Home() {
-  return <TimeBlockMobileApp />;
+  return <TimeBlockMobileAppClient />;
 }
